@@ -1,0 +1,7 @@
+"filename", "language", "Rust", "JSON", "TOML", "GLSL", "comment", "blank", "total"
+"/home/remy/Documents/Dev/garden-dev/Cargo.toml", "TOML", 0, 0, -10, 0, -1, -4, -15
+"/home/remy/Documents/Dev/garden-dev/out/linecounter.json", "JSON", 0, -6634, 0, 0, 0, 0, -6634
+"/home/remy/Documents/Dev/garden-dev/res/shaders/shape_batch/FS.glsl", "GLSL", 0, 0, 0, -151, -10, -10, -171
+"/home/remy/Documents/Dev/garden-dev/res/shaders/shape_batch/VS.glsl", "GLSL", 0, 0, 0, -31, -4, -7, -42
+"/home/remy/Documents/Dev/garden-dev/src/main.rs", "Rust", -68, 0, 0, 0, 0, -14, -82
+"Total", "-", -68, -6634, -10, -182, -15, -35, -6944

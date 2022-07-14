@@ -1,0 +1,70 @@
+Date : 2022-07-14 23:06:20
+Directory : /home/remy/Documents/Dev/garden-dev/garden
+Total : 34 files,  5108 codes, 219 comments, 843 blanks, all 6170 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Rust     |         33 |      5,099 |        218 |        841 |      6,158 |
+| TOML     |          1 |          9 |          1 |          2 |         12 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                              |         34 |      5,108 |        219 |        843 |      6,170 |
+| src                                                                            |         33 |      5,099 |        218 |        841 |      6,158 |
+| src/beetroot                                                                   |          1 |         32 |          3 |          5 |         40 |
+| src/carrot                                                                     |          3 |        286 |         35 |         54 |        375 |
+| src/garlic                                                                     |          7 |        637 |         38 |        154 |        829 |
+| src/leek                                                                       |          1 |         68 |          6 |         33 |        107 |
+| src/lettuce                                                                    |          4 |        213 |          6 |         41 |        260 |
+| src/onion                                                                      |          4 |        250 |         19 |         65 |        334 |
+| src/pepper                                                                     |          8 |      3,059 |         63 |        342 |      3,464 |
+| src/pepper/components                                                          |          2 |         40 |          0 |         12 |         52 |
+| src/potato                                                                     |          1 |        146 |         15 |         44 |        205 |
+| src/tomato                                                                     |          3 |        370 |         33 |         93 |        496 |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                       | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/remy/Documents/Dev/garden-dev/garden/Cargo.toml                          | TOML     |          9 |          1 |          2 |         12 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/beetroot/mod.rs                 | Rust     |         32 |          3 |          5 |         40 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/carrot/mod.rs                   | Rust     |          4 |          0 |          1 |          5 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/carrot/renderer.rs              | Rust     |        104 |          7 |         18 |        129 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/carrot/shape_batch.rs           | Rust     |        178 |         28 |         35 |        241 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/garlic/axis.rs                  | Rust     |         22 |          6 |          4 |         32 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/garlic/batch.rs                 | Rust     |         30 |          3 |         18 |         51 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/garlic/color.rs                 | Rust     |        134 |          7 |         37 |        178 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/garlic/effect.rs                | Rust     |        114 |         12 |         26 |        152 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/garlic/mod.rs                   | Rust     |         12 |          0 |          0 |         12 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/garlic/quad_group.rs            | Rust     |         95 |          3 |         31 |        129 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/garlic/shader.rs                | Rust     |        230 |          7 |         38 |        275 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/leek/mod.rs                     | Rust     |         68 |          6 |         33 |        107 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/lettuce/component.rs            | Rust     |         17 |          0 |          3 |         20 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/lettuce/entity.rs               | Rust     |         63 |          3 |         12 |         78 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/lettuce/mod.rs                  | Rust     |          6 |          0 |          0 |          6 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/lettuce/system.rs               | Rust     |        127 |          3 |         26 |        156 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/lib.rs                          | Rust     |         38 |          0 |         10 |         48 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/onion/app.rs                    | Rust     |        114 |         10 |         36 |        160 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/onion/mod.rs                    | Rust     |          6 |          0 |          0 |          6 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/onion/renderer.rs               | Rust     |         36 |          3 |         11 |         50 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/onion/state.rs                  | Rust     |         94 |          6 |         18 |        118 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/component.rs             | Rust     |         32 |          6 |         15 |         53 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/components/background.rs | Rust     |         38 |          0 |         12 |         50 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/components/mod.rs        | Rust     |          2 |          0 |          0 |          2 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/constraints.rs           | Rust     |      2,852 |         41 |        281 |      3,174 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/element.rs               | Rust     |         53 |          7 |         20 |         80 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/mod.rs                   | Rust     |         11 |          0 |          0 |         11 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/scene.rs                 | Rust     |         27 |          3 |          7 |         37 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/pepper/system.rs                | Rust     |         44 |          6 |          7 |         57 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/potato/mod.rs                   | Rust     |        146 |         15 |         44 |        205 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/tomato/input.rs                 | Rust     |        157 |         13 |         50 |        220 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/tomato/mod.rs                   | Rust     |          3 |          0 |          1 |          4 |
+| /home/remy/Documents/Dev/garden-dev/garden/src/tomato/window.rs                | Rust     |        210 |         20 |         42 |        272 |
+| Total                                                                          |          |      5,108 |        219 |        843 |      6,170 |
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
